@@ -1,0 +1,231 @@
+.firstdiv{
+    background-image: linear-gradient(rgba(55, 189, 28, 0.6),rgba(154, 221, 9, 0.6)),url("./bankofhope.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation:name 5s infinite;
+    padding: 0%;
+    margin: 0%;
+    height: 500px;
+}
+@keyframes name{
+    0%{ background-image: linear-gradient(rgba(55, 189, 28, 0.6),rgba(154, 221, 9, 0.6)),url("./bank111.jpeg.jpg");}
+    20%{ background-image: linear-gradient(rgba(240, 25, 25, 0.6),rgba(154, 221, 9, 0.6)),url("./bank111.jpeg.jpg");}
+    50%{ background-image: linear-gradient(rgba(10, 235, 223, 0.6),rgba(154, 221, 9, 0.6)),url("./bank111.jpeg.jpg");}
+    75%{ background-image: linear-gradient(rgba(228, 214, 24, 0.6),rgba(154, 221, 9, 0.6)),url("./bank111.jpeg.jpg");}
+    100%{ background-image: linear-gradient(rgba(163, 88, 151, 0.6),rgba(154, 221, 9, 0.6)),url("./bank111.jpeg.jpg");}
+}
+
+
+
+
+
+
+
+.headergreen1{
+    height:8vh;
+    /* background-color: rgb(6, 119, 81); */
+    color: white;
+    display: flex;
+    
+   
+    
+}
+.first-header-right-container{
+    
+    height: 49px;
+    display: flex;
+    
+}
+
+
+.textheader1{
+    margin-left: 100px;
+    margin-top: 18px;
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    
+    
+}
+.textheader1 a{
+    text-decoration: none;
+    color: white;
+}
+body .body.headergreen1 .textheader1 a{
+    text-decoration: none;
+} 
+
+
+.textheader{
+    margin-left: 30px;
+    margin-top: 18px;
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    
+}
+
+.textheader a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.textheaderleft{
+    margin-left: 500px;
+    height: 40px;
+    background-color: black;
+}
+
+
+
+.header2{
+    background-color:white;
+    height: 18vh;
+    border:1px solid rgb(192, 186, 186);
+    display: flex;
+}
+
+.header2containeroffirstsection{
+     display: flex; 
+     justify-content: flex-end;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 550;
+    
+}
+
+.img{
+    margin-top: 5px
+}
+
+
+.span{ 
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.dropedown{
+    background-color: blue;
+   color: black;
+    display: flex;
+    width: 50%;
+    margin-left: 250px;
+    width: 45vw;
+
+    
+    
+   
+}
+
+.dropedowninfo{
+
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropedowninfo:hover{
+    border: 1px solid;
+
+}
+.same{
+    align-items: center;
+    height: 18vh;
+     width: 25%; 
+    font-size: 14px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.dropedown1{
+  width: 50vh;
+  height: 73vh;
+    margin-left: 330px;
+    /* margin-top:473px; */
+    background-color:white;
+  
+}
+
+.same:Hover .dropedown1{
+    background-color: aquamarine;
+}
+
+.same1{
+    align-items: center;
+    height: 18vh;
+     width: 25%; 
+    font-size: 14px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+
+
+.same2{
+    align-items: center;
+    height: 18vh;
+     width: 25%;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.same3{
+
+    height: 18vh;
+     width: 25%;
+    font-size: 14px;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    
+
+}
+
+
+
+.dropedown a:hover{
+    background-color:green;
+    position: absolute;
+    width:10%;
+    height:18vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+} 
+
+.dropedown .same2 a:hover{
+    background-color:green;
+    position: absolute;
+    width:12%;
+    height:18vh ;
+    color: black;  
+} 
+
+
+.dropedown a{
+    color:black;
+    text-decoration: none;
+    
+}
+
+.greenbody{
+    /* background-color: rgb(6, 119, 81); */
+    height: 60vh;
+}
